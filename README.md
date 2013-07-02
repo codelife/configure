@@ -1,0 +1,4 @@
+configure
+=========
+
+software configure file
